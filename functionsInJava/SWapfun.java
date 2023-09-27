@@ -1,11 +1,13 @@
 package functionsInJava;
 import java.util.*;
 public class SWapfun {
-    static void swap(int a,int b){
+    static int swap(int a,int b){
         int temp=a;
         a=b;
         b=temp;
-
+        int swaps=swap(a, b);
+        // System.out.println();
+        return swaps;
     }
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
@@ -15,7 +17,7 @@ public class SWapfun {
         System.out.print("enter first nun2: ");
         b=sc.nextInt();
         
-        swap(a,b);
-        System.out.println("num1= "+a+" "+"num2= "+b);
+        int ans=swap(a,b);
+        System.out.println(ans);
     }
 }

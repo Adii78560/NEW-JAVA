@@ -30,5 +30,20 @@ public class arr1 {
         }
         System.out.println(" ");
 
+        int a=1123;
+        int ans=0;
+        while(a>0){
+            int rem=a%10;
+            ans=ans*10+rem;
+            a=a/10;
+
+        }
+        System.out.println(ans);
+
+        double[] g={12.0,234.0,234.0,234.0,2.34,3.4,13.0};
+        double h=g[0]*g[1];
+        System.out.println(h);
+        
+
     }
 }

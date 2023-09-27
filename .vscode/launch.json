@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "geeksForGeeks",
+            "request": "launch",
+            "mainClass": "StriverSheetQuestions.geeksForGeeks",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "patterns",
+            "request": "launch",
+            "mainClass": "StriverSheetQuestions.patterns",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "arr1",
+            "request": "launch",
+            "mainClass": "ArraysArraysList.arr1",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "QuestionsOnLoops",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.QuestionsOnLoops",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.fibonacci",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "loops1",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.loops1",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.main",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "multipleIfElse",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.multipleIfElse",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "repeatingNumbers",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.repeatingNumbers",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "repeatingNumbers1",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.repeatingNumbers1",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "reverseOfNumber",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.reverseOfNumber",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "while_loop",
+            "request": "launch",
+            "mainClass": "ConditionsAndLoops.while_loop",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "FindingLowerCase",
+            "request": "launch",
+            "mainClass": "FindingLowerCase",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "Introductions.array",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "chaeat",
+            "request": "launch",
+            "mainClass": "Introductions.chaeat",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "Introductions.first",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "hasNext",
+            "request": "launch",
+            "mainClass": "Introductions.hasNext",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "inputs_outputs",
+            "request": "launch",
+            "mainClass": "Introductions.inputs_outputs",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "Introductions.linkedlist",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "second",
+            "request": "launch",
+            "mainClass": "Introductions.second",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "stars",
+            "request": "launch",
+            "mainClass": "Introductions.stars",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "third",
+            "request": "launch",
+            "mainClass": "Introductions.third",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "typeConversions",
+            "request": "launch",
+            "mainClass": "Introductions.typeConversions",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "StriverSheetQuestions.EvenOdd",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "switchStatements",
+            "request": "launch",
+            "mainClass": "StriverSheetQuestions.switchStatements",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "SWapfun",
+            "request": "launch",
+            "mainClass": "functionsInJava.SWapfun",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "functionsInJava.Scope",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "functionsInJava.Shadowing",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "changeNums",
+            "request": "launch",
+            "mainClass": "functionsInJava.changeNums",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "fun1",
+            "request": "launch",
+            "mainClass": "functionsInJava.fun1",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "fun2",
+            "request": "launch",
+            "mainClass": "functionsInJava.fun2",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "fun3",
+            "request": "launch",
+            "mainClass": "functionsInJava.fun3",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "funOverLoading",
+            "request": "launch",
+            "mainClass": "functionsInJava.funOverLoading",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "funPrime",
+            "request": "launch",
+            "mainClass": "functionsInJava.funPrime",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "varArgs",
+            "request": "launch",
+            "mainClass": "functionsInJava.varArgs",
+            "projectName": "NEW JAVA_8f53bfd4"
+        },
+        {
+            "type": "java",
+            "name": "first(1)",
+            "request": "launch",
+            "mainClass": "switchStatement.first",
+            "projectName": "NEW JAVA_8f53bfd4"
+        }
+    ]
+}
