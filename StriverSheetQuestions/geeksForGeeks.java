@@ -61,7 +61,7 @@ public class geeksForGeeks {
         }
     }
     public static void patterns8(int n){
-        for(int i=1;i<=n;i++){
+        for(int i=1;i<=n;i+=2){
             for(int k=1;k<=n-i;k++){
                 System.out.print(" ");
             }
