@@ -61,12 +61,12 @@ public class geeksForGeeks {
         }
     }
     public static void patterns8(int n){
-        for(int i=1;i<=n;i+=2){
-            for(int k=1;k<=n-i;k++){
+        for(int i=1;i<=n+n;i+=2){
+            for(int k=1;k<=n+n-i;k+=2){
                 System.out.print(" ");
             }
             for(int j=1;j<=i;j++){
-                System.out.print("* ");
+                System.out.print("*");
             }
             System.out.println();
         }
